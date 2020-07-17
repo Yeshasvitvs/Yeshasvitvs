@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Yeshasvi (Yeshi) 👋
+
+I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https://dic.iit.it/) research line of the Italian Institute of Technology, Genova, Italy.
 
 <!--
 **Yeshasvitvs/Yeshasvitvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
