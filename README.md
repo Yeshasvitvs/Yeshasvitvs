@@ -2,9 +2,13 @@
 
 I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https://dic.iit.it/) research line of the Italian Institute of Technology, Genova, Italy.
 
+###### Contact
+
+- :trollface: Connect on [LinkedIn](https://www.linkedin.com/in/yeshasvitvs/)
+- 📫 Write me at [yeshasvitvs@gmail.com](yeshasvitvs@gmail.com)
 <!--
 **Yeshasvitvs/Yeshasvitvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/robotology
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/yeshasvitvs/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
