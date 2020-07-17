@@ -4,7 +4,7 @@ I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https:
 
 ###### Contact
 
-- :trollface: Connect on [LinkedIn](https://www.linkedin.com/in/yeshasvitvs/)
+- :briefcase: Connect on [LinkedIn](https://www.linkedin.com/in/yeshasvitvs/)
 - 📫 Reach at [yeshasvitvs@gmail.com](yeshasvitvs@gmail.com)
 <!--
 **Yeshasvitvs/Yeshasvitvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
