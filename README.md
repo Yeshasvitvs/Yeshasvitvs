@@ -7,6 +7,7 @@ I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https:
 	<a href="https://www.linkedin.com/in/yeshasvitvs/"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/LinkedIn.png" width="4%" height="4%" alt="LinkedIn"></a>
   <a href="https://scholar.google.it/citations?user=FfY2ry0AAAAJ&hl=en"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Scholar.png" width="4.5%" height="4.5%" alt="Scholar"></a>
   <a href="mailto:yeshasvitvs@gmail.com?subject=Hello Yeshi"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Google.png" width="3.75%" height="3.75%" alt="Gmail"></a>
+   <a href="https://www.chess.com/member/yeshiiit"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Chess.png" width="5%" height="5%" alt="Chess"></a>
 </p>
 
 
