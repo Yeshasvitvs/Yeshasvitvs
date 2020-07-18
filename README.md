@@ -9,6 +9,7 @@ I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https:
   <a href="mailto:yeshasvitvs@gmail.com?subject=Hello Yeshi"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Google.png" width="3.75%" height="3.75%" alt="Gmail"></a>
    <a href="https://www.chess.com/member/yeshiiit"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Chess.png" width="6%" height="5%" alt="Chess"></a>
    <a href="https://www.strava.com/athletes/26010309"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Strava.png" width="4%" height="4%" alt="Strava"></a>
+   <a href="https://www.youtube.com/channel/UCDGmn5Wvf_tZxuqgflK478Q?view_as=subscriber"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/YouTube.png" width="4%" height="4%" alt="YouTube"></a>
 </p>
 
 
