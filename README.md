@@ -10,10 +10,6 @@ I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https:
 </p>
 
 
-###### Contact
-
-- :briefcase: Connect on [LinkedIn](https://www.linkedin.com/in/yeshasvitvs/)
-- 📫 Reach at [yeshasvitvs@gmail.com](yeshasvitvs@gmail.com)
 <!--
 **Yeshasvitvs/Yeshasvitvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/robotology
