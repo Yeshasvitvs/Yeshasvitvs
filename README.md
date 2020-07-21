@@ -1,6 +1,6 @@
 ### Hi, I'm Yeshasvi (Yeshi) 👋
 
-I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https://dic.iit.it/) research line of the Italian Institute of Technology, Genova, Italy.
+I'm a robotics researcher developing enabling technologies for Human-Robot Collaboration. I am currently a Postdoctoral researcher at [Dynamic Interaction Control](https://dic.iit.it/) research line of the Italian Institute of Technology, Genova, Italy.
 
 <p align="center">
   <a href="https://github.com/Yeshasvitvs/"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Github.png" width="4.25%" height="4.25%" alt="Github"></a>
