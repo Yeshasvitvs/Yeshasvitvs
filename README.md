@@ -14,12 +14,13 @@ I'm a robotics researcher interesting in building technology that endows mechani
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true" />
 </a>
