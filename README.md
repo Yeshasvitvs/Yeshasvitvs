@@ -16,6 +16,7 @@ I'm a robotics researcher interested in building technology that endows mechanic
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex" />
@@ -25,7 +26,7 @@ I'm a robotics researcher interested in building technology that endows mechanic
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true" />
 </a>
-
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yeshasvitvs.Yeshasvitvs)
 
