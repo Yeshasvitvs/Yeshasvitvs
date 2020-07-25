@@ -11,6 +11,7 @@ I'm a robotics researcher interested in building technology that endows mechanic
    <a href="https://www.chess.com/member/yeshiiit"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Chess.png" width="6%" height="5%" alt="Chess"></a>
    <a href="https://www.strava.com/athletes/26010309"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Strava.png" width="4%" height="4%" alt="Strava"></a>
    <a href="https://www.youtube.com/channel/UCDGmn5Wvf_tZxuqgflK478Q?view_as=subscriber"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/YouTube.png" width="4%" height="4%" alt="YouTube"></a>
+  <a href="https://www.shutterstock.com/g/yeshasvi+tirupachuri"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Shutterstock.png" width="3%" height="3%" alt="Shutterstock"></a>
 </p>
 
 
