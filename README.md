@@ -1,6 +1,12 @@
 ### Hi, I'm Yeshasvi (Yeshi) 👋
 
-I am a robotics researcher interested in building technology that endows mechanical systems with invaluable skills that can elevate human life. I am currently a Postdoctoral researcher developing enabling technologies for Human-Robot Collaboration at [Dynamic Interaction Control](https://dic.iit.it/) research line of the Italian Institute of Technology, Genova, Italy.
+<p align="center">
+  <img align="center" src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/Github_bg.png" />
+</p>
+
+<p align=" justify">
+  I am a robotics researcher interested in building technology that endows mechanical systems with invaluable skills that can elevate human life. I am currently a Postdoctoral researcher developing enabling technologies for Human-Robot Collaboration at <a href="https://dic.iit.it/">Dynamic Interaction Control</a> research line of the Italian Institute of Technology, Genova, Italy.
+</p>
 
 <p align="center">
   <a href="https://github.com/Yeshasvitvs/"><img src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/social-icons/Github.png" width="4.25%" height="4.25%" alt="Github"></a>
@@ -17,15 +23,13 @@ I am a robotics researcher interested in building technology that endows mechani
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex" />
-</a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshasvitvs&hide=cmake,tex" />
+  </a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true" />
-</a>
+  <a href="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeshasvitvs&show_icons=true" />
+  </a>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yeshasvitvs.Yeshasvitvs)
