@@ -1,9 +1,5 @@
 ### Hi, I'm Yeshasvi (Yeshi) 👋
 
-<p align="center">
-  <img align="center" src="https://github.com/Yeshasvitvs/Yeshasvitvs/blob/master/Github_bg.png" />
-</p>
-
 <p align=" justify">
   I am a robotics researcher interested in building technologies which endow mechanical systems with invaluable skills that can elevate the quality of human life. I am currently a Postdoctoral researcher developing enabling technologies for Human-Robot Collaboration at <a href="https://dic.iit.it/">Dynamic Interaction Control</a> research line of the Italian Institute of Technology, Genova, Italy.
 </p>
